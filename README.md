@@ -13,6 +13,8 @@ positional arguments:
 optional arguments:
   -h, --help        show this help message and exit
 ```
+## Release
+Latest release [here](https://github.com/alwashmi/ListDriversWin/releases/latest)
 
 ## output
 JSON list of drivers [{}, {}, {}, ...]
