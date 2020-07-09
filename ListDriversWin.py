@@ -10,7 +10,7 @@ import argparse
 BUFFER_SIZE = 131072 # 128 KB
 
 # Platform:     Windows
-# Function:     win_list_kmodules()
+# Function:     list_kmodules_win()
 # parameters:   None
 # Return:       returns the list of device drivers [{},{},...]
 def list_kmodules_win():
