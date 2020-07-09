@@ -1,7 +1,7 @@
 # ListDriversWin
 ListDriversWin outputs a list of drivers in JSON format.
 
-## usage
+## Usage
 ```
 usage: ListDriversWin.py [-h] outfile_abs_path
 
@@ -16,16 +16,16 @@ optional arguments:
 ## Release
 Latest release [here](https://github.com/alwashmi/ListDriversWin/releases/latest)
 
-## output
+## Output
 JSON list of drivers [{}, {}, {}, ...]
 Keys:
 ['Module Name', 'Display Name', 'Description', 'Driver Type', 'Start Mode', 'State', 'Status', 'Accept Stop', 'Accept Pause', 'Paged Pool(bytes)', 'Code(bytes)', 'BSS(bytes)', 'Link Date', 'Path', 'Init(bytes)', '@timestamp', 'SHA1']
 
-## version
+## Versions
 1.0
 
-## todo:
+## Next release:
 check signature
 
-## author
+## Author
 Abdulaziz Alwashmi (@AlwashmiA)
