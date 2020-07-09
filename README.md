@@ -28,4 +28,4 @@ Keys:
 check signature
 
 ## Author
-Abdulaziz Alwashmi (@AlwashmiA)
+Abdulaziz Alwashmi [@AlwashmiA](https://twitter.com/alwashmia)
