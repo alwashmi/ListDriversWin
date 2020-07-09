@@ -3,7 +3,7 @@ ListDriversWin outputs a list of drivers in JSON format.
 
 ## Usage
 ```
-usage: ListDriversWin.py [-h] outfile_abs_path
+usage: ListDriversWin.exe [-h] outfile_abs_path
 
 KModules lists the kernel modules with SHA1 and outputs JSON.
 
